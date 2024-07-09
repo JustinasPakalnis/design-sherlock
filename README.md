@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://justinaspakalnis.github.io/design-sherlock/
 
-Design: [Design-light-bulb](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
+Design: [Ponas Serlokas](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
 
 ## 🎯 Project features/goals
 
