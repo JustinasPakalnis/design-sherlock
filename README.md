@@ -9,9 +9,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://justinaspakalnis.github.io/design-light-bulb/
+Site published at: https://justinaspakalnis.github.io/design-sherlock/
 
-Design: [Design-light-bulb](https://cdn.dribbble.com/users/140123/screenshots/2449522/404_1x.png?resize=800x600&vertical=center)
+Design: [Design-light-bulb](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
 
 ## 🎯 Project features/goals
 
